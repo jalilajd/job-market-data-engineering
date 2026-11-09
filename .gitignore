@@ -1,7 +1,20 @@
+# Environnements et secrets
 .venv/
+**/.env
+*.env
 .idea/
+
+# Airflow local
+airflow/config/
+airflow/logs/
+airflow/airflow.db
+
+# Python
 __pycache__/
 *.pyc
-.env
+
+# Données et modèles volumineux
 data/raw/
 data/processed/
+*.parquet
+*.npy

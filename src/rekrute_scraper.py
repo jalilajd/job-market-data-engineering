@@ -20,7 +20,7 @@ from selenium.common.exceptions import TimeoutException
 
 BASE_URL = "https://www.rekrute.com/offres-emploi-maroc.html"
 
-OUTPUT_DIR = Path("data/raw")
+OUTPUT_DIR = Path("../data/raw")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 OUTPUT_FILE = OUTPUT_DIR / "rekrute_raw.csv"
