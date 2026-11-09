@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+accelerate==0.30.1
+rank-bm25
+psycopg2-binary
+sqlalchemy
+python-dotenv
