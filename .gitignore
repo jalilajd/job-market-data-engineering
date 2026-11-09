@@ -18,3 +18,6 @@ data/raw/
 data/processed/
 *.parquet
 *.npy
+# Artefacts nécessaires à l'application Streamlit
+!streamlit/smartjob_final_artifacts/*.parquet
+!streamlit/smartjob_final_artifacts/*.npy
