@@ -1,0 +1,107 @@
+﻿query_id,query,rank,offer_id,title,company,city,excerpt,label
+1,analyser des données et construire des tableaux de bord Power BI,1,1486040d35eb7a05,Power BI Data Analyst (Stagiaire),Coface,Casablanca,"Poste : Power BI Data Analyst (Stagiaire) | Entreprise : Coface | Ville : Casablanca | Contrat : Stage | Expérience : Débutant (-1 an) | Formation : Bac +4 minimum | Technologies détectées : Power BI
+Vous aurez comme missions de :
+Travailler à la mise au point et à l'amélioration continue de la datavisualisation.
+Construire des dashboards interacti",
+1,analyser des données et construire des tableaux de bord Power BI,2,eff19d8a6374579e,Stagiaire en Business Intelligence & Power BI H/F,Sothema,Casablanca,"Poste : Stagiaire en Business Intelligence & Power BI H/F | Entreprise : Sothema | Ville : Casablanca | Contrat : Stage | Expérience : Junior (1 à 3 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : SQL, Power BI, Excel
+Créer des tableaux de bord interactifs et des rapports dynamiques pour faciliter le suivi de l’activité et la p",
+1,analyser des données et construire des tableaux de bord Power BI,3,894ad1e9f9992825,Data Analyst (Finance),CAC (Centrale Automobile Chérifienne),Casablanca,"Poste : Data Analyst (Finance) | Entreprise : CAC (Centrale Automobile Chérifienne) | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Power BI, Data Warehouse
+- Concevoir et actualiser les tableaux de bord sous Power BI.
+- Modéliser et structurer les données",
+1,analyser des données et construire des tableaux de bord Power BI,4,a00a9fb0bb763609,Chargé de Projets SI (H/F),CRIT,Casablanca,"Poste : Chargé de Projets SI (H/F) | Entreprise : CRIT | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +4 minimum | Technologies détectées : SQL, Power BI
+Nous recherchons, pour le compte de notre client, un(e) Chargé(e) de Projets SI pour accompagner le suivi et l’évolution de son système d’informati",
+1,analyser des données et construire des tableaux de bord Power BI,5,46c6d73b35c0abab,Data Engineer Confirmé,Orange Business,Rabat,"Poste : Data Engineer Confirmé | Entreprise : Orange Business | Ville : Rabat | Contrat : Stage | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Power BI, Airflow, dbt, Git, DevOps / CI-CD
+Collaborer avec les architectes Data, les équipes métiers et les équipes BI
+Compétences clés",
+2,stage en data science ou intelligence artificielle,1,1486040d35eb7a05,Power BI Data Analyst (Stagiaire),Coface,Casablanca,Poste : Power BI Data Analyst (Stagiaire) | Entreprise : Coface | Ville : Casablanca | Contrat : Stage | Expérience : Débutant (-1 an) | Formation : Bac +4 minimum | Technologies détectées : Power BI Poste : Power BI Data Analyst (Stagiaire) | Entreprise : Coface | Ville : Casablanca | Contrat : Stage | Expérience : Débutant (-1 an) | Formation : B,
+2,stage en data science ou intelligence artificielle,2,f4d766407dc618e9,Data Scientist / Ingénieur IA confirmé,CAC (Centrale Automobile Chérifienne),Casablanca,"Poste : Data Scientist / Ingénieur IA confirmé | Entreprise : CAC (Centrale Automobile Chérifienne) | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Azure, Databricks, DevOps / CI-CD
+Enfin, vous assurez une veille technologique active afin d’id",
+2,stage en data science ou intelligence artificielle,3,8405faa3cd871cb2,Spécialiste en Intelligence Artificielle / Casablanca à Sidi Maarouf,O&D Services,Casablanca,"Poste : Spécialiste en Intelligence Artificielle / Casablanca à Sidi Maarouf | Entreprise : O&D Services | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Docker, Git, TensorFlow, PyTorch, scikit-learn
+Pour réussir dans ce rôle, un niveau de formation de",
+2,stage en data science ou intelligence artificielle,4,eff19d8a6374579e,Stagiaire en Business Intelligence & Power BI H/F,Sothema,Casablanca,"Poste : Stagiaire en Business Intelligence & Power BI H/F | Entreprise : Sothema | Ville : Casablanca | Contrat : Stage | Expérience : Junior (1 à 3 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : SQL, Power BI, Excel Poste : Stagiaire en Business Intelligence & Power BI H/F | Entreprise : Sothema | Ville : Casablanca | Contrat",
+2,stage en data science ou intelligence artificielle,5,e1653713f2e1d2fa,Data scientist - OTA (Databricks / PySpark),ALTEN Maroc,Fès,"Poste : Data scientist - OTA (Databricks / PySpark) | Entreprise : ALTEN Maroc | Ville : Fès | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Spark, Power BI, Databricks Poste : Data scientist - OTA (Databricks / PySpark) | Entreprise : ALTEN Maroc | Ville : Fès | Cont",
+3,data engineer avec Spark et Airflow à Casablanca,1,0a3671ab4a0a5134,Data Engineer (F/H),Sofrecom Maroc,Casablanca,"Poste : Data Engineer (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Junior (1 à 3 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Spark, Airflow, dbt, Scala, Git Poste : Data Engineer (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Ju",
+3,data engineer avec Spark et Airflow à Casablanca,2,46c6d73b35c0abab,Data Engineer Confirmé,Orange Business,Rabat,"Poste : Data Engineer Confirmé | Entreprise : Orange Business | Ville : Rabat | Contrat : Stage | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Power BI, Airflow, dbt, Git, DevOps / CI-CD
+•
+Data Engineer confirmé disposant d’au moins 3 ans d’expérience
+•
+Expérience significative ",
+3,data engineer avec Spark et Airflow à Casablanca,3,9cd17f05b5f81b39,Senior Data Engineer,AXA GBS Morocco,Rabat,"Poste : Senior Data Engineer | Entreprise : AXA GBS Morocco | Ville : Rabat | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Spark, Power BI, Azure, Databricks, Kafka, Git, DevOps / CI-CD
+Collaborate with IT teams, Data Scientists, and business stakeholders to deliver ",
+3,data engineer avec Spark et Airflow à Casablanca,4,cd26430ca48c4aea,Architecte Cloud DATA/BIG DATA (F/H),Sofrecom Maroc,Casablanca,"Poste : Architecte Cloud DATA/BIG DATA (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Expert (10 à 20 ans) | Formation : Bac +4 minimum | Technologies détectées : SQL, Spark, Azure, AWS, GCP / BigQuery, Snowflake, Databricks, Kubernetes, Kafka, Hadoop, Talend, LLM / GenAI, DevOps / CI-CD
+• Modélisation des d",
+3,data engineer avec Spark et Airflow à Casablanca,5,bbca8874c5417014,Data Engineer BI - (H/F),,Casablanca,"Poste : Data Engineer BI - (H/F) | Ville : Casablanca | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Azure, SSIS, Git, DevOps / CI-CD
+Audit et cartographie :
+Analyser l'existant (SSIS, SSRS, SSAS, bases SQL Server on-premise) et définir la stratégie de migration cibl",
+4,ingénieur cloud avec Kubernetes et Docker,1,1f4d55022146d2da,Ingénieur DevOps (F/H) – CDD,Sofrecom Maroc,Rabat,"Poste : Ingénieur DevOps (F/H) – CDD | Entreprise : Sofrecom Maroc | Ville : Rabat | Contrat : CDD | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, AWS, GCP / BigQuery, Docker, Kubernetes, Git, Linux, DevOps / CI-CD
+Qualifications:
+Diplôme d'ingénieur (Bac+5) en informatique, réseaux ou cloud, ",
+4,ingénieur cloud avec Kubernetes et Docker,2,b02fe41edbac883d,INGENIEUR CLOUD SENIOR,GSM AL MAGHRIB,Casablanca,"Poste : INGENIEUR CLOUD SENIOR | Entreprise : GSM AL MAGHRIB | Ville : Casablanca | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus | Technologies détectées : Python, Azure, AWS, GCP / BigQuery, Docker, Kubernetes, Git, DevOps / CI-CD
+Si ce défi professionnel correspond à vos aspirations et que votre parcours répond ",
+4,ingénieur cloud avec Kubernetes et Docker,3,d98458f96bae0bb9,INGENIEUR CLOUD JUNIOR,GSM AL MAGHRIB,Casablanca,"Poste : INGENIEUR CLOUD JUNIOR | Entreprise : GSM AL MAGHRIB | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +3 | Technologies détectées : Python, Azure, AWS, GCP / BigQuery, Docker, Kubernetes, Git, DevOps / CI-CD
+- Mettre en place des solutions de gestion des logs et d’alerte proactive.
+Mission 6 :
+Veille te",
+4,ingénieur cloud avec Kubernetes et Docker,4,05576e0743485d0c,Ingénieur DevSecOps - Sécurité Cloud (F/H),Sofrecom Maroc,Casablanca,"Poste : Ingénieur DevSecOps - Sécurité Cloud (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, Docker, Kubernetes, Git, DevOps / CI-CD
+Compétences techniques indispensables :
+DevOps:
+Ansible, GitLab-CI, Docker, Kuberne",
+4,ingénieur cloud avec Kubernetes et Docker,5,7bc4cc24defbc67d,"Ingénieur DevOps, Frontend ( F/H)",Sofrecom Maroc,Rabat,"Poste : Ingénieur DevOps, Frontend ( F/H) | Entreprise : Sofrecom Maroc | Ville : Rabat | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, Spark, Docker, Kubernetes, Airflow, Kafka, Git, PostgreSQL, DevOps / CI-CD
+Formation Bac+5 en informatique (école d'ingénieur ou équi",
+5,je débute et je cherche un poste d'analyste de données,1,17ba59a11e42ba84,Ingénieur Analyste d'Exploitation Réseau N1,Orange Business,Rabat,"Poste : Ingénieur Analyste d'Exploitation Réseau N1 | Entreprise : Orange Business | Ville : Rabat | Contrat : Autre | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum
+Ce stage leur permettra une immersion totale dans le métier d'analyste d'exploitation et les préparera à devenir de bons candidats pour nos besoins futurs. Poste : ",
+5,je débute et je cherche un poste d'analyste de données,2,66de98196a6e61a9,Analyste Relances - Back Office Commercial,Coface,Casablanca,"Poste : Analyste Relances - Back Office Commercial | Entreprise : Coface | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +3 minimum | Technologies détectées : Excel
+Produire les reportings d’activité, analyses de portefeuille et indicateurs de performance afin de contribuer à l’amélioration continue des proces",
+5,je débute et je cherche un poste d'analyste de données,3,585f0d9791626725,Data Analyst (F/H),Sofrecom Maroc,Casablanca,"Poste : Data Analyst (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Java
+Vous intégrerez une équipe dynamique, à la pointe des technologies liées à la data, au sein d'un environnement collaboratif et expéri",
+5,je débute et je cherche un poste d'analyste de données,4,d8d7ecbca98250f6,ANALYSTE RISQUE CREDIT BDI (H/F),Attijariwafa bank,Casablanca,"Poste : ANALYSTE RISQUE CREDIT BDI (H/F) | Entreprise : Attijariwafa bank | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum
+• De formation Bac+5, diplômé d’une grande Ecole de Commerce ou d’Ingénieur.
+• Vous avez de bonnes capacités d’analyse financière et de rédaction pour produire des compte",
+5,je débute et je cherche un poste d'analyste de données,5,7a0953363b9c6944,ANALYSTE RISQUE CREDIT PME (H/F),Attijariwafa bank,Casablanca,"Poste : ANALYSTE RISQUE CREDIT PME (H/F) | Entreprise : Attijariwafa bank | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum
+• De formation Bac+5, Ecole de Commerce ou Université, option Finance, Gestion.
+Vous débutez ou justifiez d’une première expérience idéalement en milieu financier.
+• Vous",
+6,responsable gouvernance et qualité des données,1,e2d0b8651064d219,Chargé – Gouvernance des Données et Analyse des Performances,Société de Développement des Services Publics de distribution,Rabat,"Poste : Chargé – Gouvernance des Données et Analyse des Performances | Entreprise : Société de Développement des Services Publics de distribution | Ville : Rabat | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus
+Nous recherchons un profil au poste de « Chargé – Gouvernance des Données et Analyse des Performances ",
+6,responsable gouvernance et qualité des données,2,71693730843f54d9,Data Protection Officer,AXA Services Maroc,Rabat,"Poste : Data Protection Officer | Entreprise : AXA Services Maroc | Ville : Rabat | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum
+Rôle et mission principale:
+Rattaché(e) au Responsable Département Conformité, Controle Interne et Sureté, vous avez pour mission principale de garantir la conformité de l’or",
+6,responsable gouvernance et qualité des données,3,d671788ec48fb062,Chef de Division Gouvernance & Droit des Sociétés,ORH Assessment,Dakhla,"Poste : Chef de Division Gouvernance & Droit des Sociétés | Entreprise : ORH Assessment | Ville : Dakhla | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum
+Valider les documents juridiques destinés aux membres des organes délibératifs et garantir leur conformité ;
+Superviser la réalisation des formalités légal",
+6,responsable gouvernance et qualité des données,4,8bf1d1e68665fa83,Responsable Qualité,,Meknès,"Poste : Responsable Qualité | Ville : Meknès | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +2 minimum
+Définir, déployer et suivre le système de management de la qualité en accord avec les normes en vigueur et les objectifs de l'entreprise.
+Mettre en place et superviser les plans d'actions correctives et préventives suite au",
+6,responsable gouvernance et qualité des données,5,585f0d9791626725,Data Analyst (F/H),Sofrecom Maroc,Casablanca,"Poste : Data Analyst (F/H) | Entreprise : Sofrecom Maroc | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Java
+L'identification et la correction des problèmes de qualité des données.
+La collaboration avec les architectes SI et les métiers lors ",
+7,business analyst dans la banque ou l'assurance,1,dd055e835b027ed2,Learning and Development Analyst,AXA GBS Morocco,Rabat,"Poste : Learning and Development Analyst | Entreprise : AXA GBS Morocco | Ville : Rabat | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum | Technologies détectées : Excel
+Rejoindre AXA Global Business Services Maroc, filiale d'un leader mondial de l'assurance, signifie intégrer une équipe internationale et dynamiq",
+7,business analyst dans la banque ou l'assurance,2,5a85487861b9cc1c,Senior Business Analyst - Performance Commerciale Retail (H/F),Groupe Label'Vie - Carrefour,Casablanca,"Poste : Senior Business Analyst - Performance Commerciale Retail (H/F) | Entreprise : Groupe Label'Vie - Carrefour | Ville : Casablanca | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Power BI, Excel
+Forte autonomie dans la conduite d'analyses business complexes.
+Sens business.
+Ca",
+7,business analyst dans la banque ou l'assurance,3,75dceb0bb7905148,Finance Analyst,Orange Business,Casablanca,"Poste : Finance Analyst | Entreprise : Orange Business | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Excel, Oracle Poste : Finance Analyst | Entreprise : Orange Business | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Form",
+7,business analyst dans la banque ou l'assurance,4,1486040d35eb7a05,Power BI Data Analyst (Stagiaire),Coface,Casablanca,"Poste : Power BI Data Analyst (Stagiaire) | Entreprise : Coface | Ville : Casablanca | Contrat : Stage | Expérience : Débutant (-1 an) | Formation : Bac +4 minimum | Technologies détectées : Power BI
+Généraliste à composante forte en Data, Management des systèmes d’information et analyse de la donnée, ou tout autre formation équivalente.
+Vos connai",
+7,business analyst dans la banque ou l'assurance,5,0dc910a02a67568a,Product Owner / Business Analyst,Inyad,Casablanca,"Poste : Product Owner / Business Analyst | Entreprise : Inyad | Ville : Casablanca | Contrat : Autre | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +4 minimum
+Expérience requise :
+3 à 6 ans d’expérience pertinente en gestion de produit (ou en analyse de données, marketing produit, business analysis avec une forte composante produit)
+Cap",
+8,ingénieur machine learning NLP,1,8405faa3cd871cb2,Spécialiste en Intelligence Artificielle / Casablanca à Sidi Maarouf,O&D Services,Casablanca,"Poste : Spécialiste en Intelligence Artificielle / Casablanca à Sidi Maarouf | Entreprise : O&D Services | Ville : Casablanca | Contrat : CDI | Expérience : Débutant (-1 an) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Docker, Git, TensorFlow, PyTorch, scikit-learn
+Pour réussir dans ce rôle, un niveau de formation de",
+8,ingénieur machine learning NLP,2,e9a5cacd6f37c8ef,Sr Machine Learning Engineer,AXA GBS Morocco,Rabat,"Poste : Sr Machine Learning Engineer | Entreprise : AXA GBS Morocco | Ville : Rabat | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Spark, Azure, Databricks, Docker, Git, TensorFlow, PyTorch, scikit-learn, DevOps / CI-CD
+Model Design and Development:
+Design, train",
+8,ingénieur machine learning NLP,3,2ddd238bae07ac33,Développeur Python IA,ALTEN Maroc,Fès,"Poste : Développeur Python IA | Entreprise : ALTEN Maroc | Ville : Fès | Contrat : CDI | Expérience : Confirmé (5 à 10 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, Azure, Git, LLM / GenAI
+Compétences solides et justifiées en développement Python.
+Compétences solides et justifiées en IA :
+LLM, Prompt engineering, MCP ",
+8,ingénieur machine learning NLP,4,41da143587ee3048,Développeur Python IA,ALTEN Maroc,Fès,"Poste : Développeur Python IA | Entreprise : ALTEN Maroc | Ville : Fès | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, Azure, Git, LLM / GenAI
+Compétences solides et justifiées en développement Python.
+Compétences solides et justifiées en IA :
+LLM, Prompt engineering, ",
+8,ingénieur machine learning NLP,5,f4d766407dc618e9,Data Scientist / Ingénieur IA confirmé,CAC (Centrale Automobile Chérifienne),Casablanca,"Poste : Data Scientist / Ingénieur IA confirmé | Entreprise : CAC (Centrale Automobile Chérifienne) | Ville : Casablanca | Contrat : CDI | Expérience : Intermédiaire (3 à 5 ans) | Formation : Bac +5 et plus minimum | Technologies détectées : Python, SQL, Azure, Databricks, DevOps / CI-CD
+Compétences Techniques :
+Maîtrise Python, ML/DL, API, cloud A",

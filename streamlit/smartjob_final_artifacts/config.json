@@ -1,0 +1,12 @@
+{
+  "project": "SmartJob Morocco",
+  "source": "/kaggle/input/datasets/jalilajadouall/rekrute/rekrute_cleaned.parquet",
+  "n_offers": 1542,
+  "n_chunks": 7060,
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "llm_model": "Qwen/Qwen2.5-3B-Instruct",
+  "chunk_chars": 750,
+  "retrieval": "BM25 + multilingual-e5 + RRF",
+  "filters": "strict; no silent relaxation",
+  "created_at": "2026-11-09T09:45:56.812038+00:00"
+}
